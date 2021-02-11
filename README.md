@@ -1,2 +1,2 @@
 # physics
-JavaScript 2D physics engine.
+JavaScript 2D physics library.
